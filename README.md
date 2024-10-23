@@ -8,9 +8,7 @@
 - HTML / CSS / JS
 - Python
 - Swift & XCode
-- React / TSX (New)
-
-🎮 I love creating my own games as well as playing anything that tickles my fancy.
+- React / TSX
 
 ## ✨ CV
 [denizhonigs.com](https://denizhonigs.com)
